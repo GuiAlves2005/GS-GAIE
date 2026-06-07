@@ -27,8 +27,8 @@ Para garantir a melhor performance, treinei e comparei dois modelos distintos se
 ## 4. Interpretabilidade com SHAP
 Para não termos um modelo "caixa preta", utilizei a biblioteca **SHAP (SHapley Additive exPlanations)** para entender exatamente como a IA toma suas decisões de descarte.
 
-> 📸 **[COLOQUE A IMAGEM DO SHAP AQUI]**
-> ![Análise SHAP](output.png)
+<img width="780" height="499" alt="image" src="https://github.com/user-attachments/assets/fe4e106b-6357-4d3b-8a2a-b81bf319a5af" />
+
 
 **Análise do Gráfico:**
 Como podemos observar no *summary plot* acima, o modelo aprendeu perfeitamente a física do problema:
@@ -39,9 +39,11 @@ Como podemos observar no *summary plot* acima, o modelo aprendeu perfeitamente a
 ## 5. Deploy da Aplicação
 Para demonstrar o modelo em funcionamento, desenvolvi uma interface interativa utilizando **Streamlit**. Através dela, é possível simular a leitura dos sensores do satélite e ver a IA executando a triagem em tempo real.
 
-> ![Dados aprovados!](image.png)
+<img width="1528" height="831" alt="image" src="https://github.com/user-attachments/assets/d66e772b-f242-4c9d-8517-b55820b5453a" />
 
-> ![Dados descartados!](image-1.png)
+
+<img width="1529" height="829" alt="image" src="https://github.com/user-attachments/assets/d8f69ac6-0a54-4087-ab11-300d40dfa727" />
+
 
 ---
 
