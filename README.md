@@ -4,6 +4,12 @@ Bem-vindo ao repositório de Inteligência Artificial Generativa e Machine Learn
 
 Como estudante do 4º ano de Engenharia de Software, desenvolvi este módulo para resolver um problema real da nova economia espacial: o gargalo de transmissão de dados. Com milhares de satélites em órbita, enviar dados corrompidos para a Terra desperdiça banda, tempo e dinheiro. A solução? Uma IA embarcada que filtra a telemetria e descarta o que é ruído antes mesmo da transmissão.
 
+
+**Integrantes:
+Guilherme Alves de Lima Rm 550433
+Bruno Venturi Lopes Vieira Rm 99431
+Leonardo Ruiz Rm 98901**
+
 ---
 
 ## 1. Definição do Problema e Qualidade dos Dados
